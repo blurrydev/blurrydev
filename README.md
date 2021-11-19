@@ -22,4 +22,4 @@
 
 [website]: https://t.me/stonernextdoor
 [twitter]: https://twitter.com/notb1urryface
-[instagram]: https://instagram.com/anurag_mondal
+[instagram]: https://www.instagram.com/anurag_mondal/
