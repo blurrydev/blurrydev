@@ -3,7 +3,7 @@
 
 ## I'm an undergrad Data Science Student!!
 
-- 🌱 I’m currently interning in RNTBCI
+- 🌱 I’m currently working as Python developer in RNTBCI
 - 👯 I’m looking to collaborate with other developers and ML/AI enthusiasts
 
 ### Connect with me:
